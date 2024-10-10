@@ -1,4 +1,4 @@
 nginx
 jellyfin/jellyfin
 python
-bt-panel
+centos
