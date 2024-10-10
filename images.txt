@@ -1,3 +1,4 @@
 nginx
 jellyfin/jellyfin
-jellyfin/jellyfin:10.8.14
+python
+bt-panel
