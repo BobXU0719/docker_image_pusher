@@ -2,3 +2,4 @@ nginx
 jellyfin/jellyfin
 python
 centos
+cloudbak
